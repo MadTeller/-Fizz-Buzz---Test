@@ -122,6 +122,9 @@ namespace Good_Boy_Cat
                 Console.Write("Задание: Измените поведение для деления без остатка на 3 и 5. Если делится на 3 без остатка - заменить на \"dog\", если делится на 5 без остатка - заменить на \"cat, если на 3 и 5 без остатка - заменить на \"good-boy\". При кратности на 3 и 5 и другие числа - \"good-boy\" выводить вначале замены. ");
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
+                Console.Write("Решение:");
+                Console.WriteLine(" ");
+                Console.WriteLine(" ");
                 bool isFirstSymbol = true;
                 bool isGoodBoy = false; // кртаное 3 и 5
                 bool isDog = false; // кратное 3
