@@ -104,6 +104,9 @@ namespace Fizz_Buzz
                 Console.Write("Задание: Если число делится на 3 без остатка - заменить его на \"fizz\", если делится на 5 без остатка - заменить его на \"buzz\", если делится на 3 и на 5 без остатка - заменить на \"fizz-buzz\": ");
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
+                Console.Write("Решение:");
+                Console.WriteLine(" ");
+                Console.WriteLine(" ");
                 bool isFirstSymbol = true;
                 bool isFizz = false; // кратное 3
                 bool isBuzz = false; // кратное 5
@@ -181,6 +184,9 @@ namespace Fizz_Buzz
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
                 Console.Write("Задание: На основе первой задачи. Нужно добавить аналогичное поведения для чисел кратным 7 и 4. Если делится на 4 без остатка - заменить на \"muzz\", если делится на 7 без остатка - заменить на \"guzz\", если делится на 4 и 7 без остатка - заменить на \"muzz-guzz\": ");
+                Console.WriteLine(" ");
+                Console.WriteLine(" ");
+                Console.Write("Решение:");
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
 
@@ -261,6 +267,9 @@ namespace Fizz_Buzz
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
                 Console.Write("Задание: Аналогичное поведения для всех комбинаций чисел при кратности. Пример: число 105 кратно 3, 5, 7 и не кратно 4 - его нужно заменить на \"fizz-buzz-guzz\": ");
+                Console.WriteLine(" ");
+                Console.WriteLine(" ");
+                Console.Write("Решение:");
                 Console.WriteLine(" ");
                 Console.WriteLine(" ");
 
