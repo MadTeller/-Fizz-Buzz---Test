@@ -1,0 +1,7 @@
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Fizz-Buzz\Fizz-Buzz\bin\Debug\Fizz-Buzz.exe.config
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Fizz-Buzz\Fizz-Buzz\bin\Debug\Fizz-Buzz.exe
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Fizz-Buzz\Fizz-Buzz\bin\Debug\Fizz-Buzz.pdb
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Fizz-Buzz\Fizz-Buzz\obj\Debug\Fizz-Buzz.csproj.AssemblyReference.cache
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Fizz-Buzz\Fizz-Buzz\obj\Debug\Fizz-Buzz.csproj.CoreCompileInputs.cache
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Fizz-Buzz\Fizz-Buzz\obj\Debug\Fizz-Buzz.exe
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Fizz-Buzz\Fizz-Buzz\obj\Debug\Fizz-Buzz.pdb

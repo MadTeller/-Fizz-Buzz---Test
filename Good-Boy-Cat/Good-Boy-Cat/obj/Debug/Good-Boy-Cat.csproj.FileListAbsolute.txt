@@ -1,0 +1,7 @@
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Good-Boy-Cat\Good-Boy-Cat\bin\Debug\Good-Boy-Cat.exe.config
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Good-Boy-Cat\Good-Boy-Cat\bin\Debug\Good-Boy-Cat.exe
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Good-Boy-Cat\Good-Boy-Cat\bin\Debug\Good-Boy-Cat.pdb
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Good-Boy-Cat\Good-Boy-Cat\obj\Debug\Good-Boy-Cat.csproj.AssemblyReference.cache
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Good-Boy-Cat\Good-Boy-Cat\obj\Debug\Good-Boy-Cat.csproj.CoreCompileInputs.cache
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Good-Boy-Cat\Good-Boy-Cat\obj\Debug\Good-Boy-Cat.exe
+C:\Users\halpt\OneDrive\Рабочий стол\Fizz-Buzz\Good-Boy-Cat\Good-Boy-Cat\obj\Debug\Good-Boy-Cat.pdb
